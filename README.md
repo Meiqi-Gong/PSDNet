@@ -4,10 +4,10 @@ Code of [Multipatch Progressive Pansharpening With Knowledge Distillation](https
 Tips
 ---------
 #### To train:<br>
-Run optimize1.py.
+* Run optimize1.py.
 
 #### To test with the pre-trained model:<br>
-Run test.py.
+* Run test.py.
 
 If this work is helpful to you, please cite it as:
 ```
